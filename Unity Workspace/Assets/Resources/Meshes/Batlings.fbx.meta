@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: 006bdb51d4f3a344494d2277f2fadd0a
+timeCreated: 1491477292
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Batling
+    100002: //RootNode
+    100004: Left Wing Spine
+    100006: Left Wing Spine_end
+    100008: Lower Left Wing
+    100010: Lower Mouth
+    100012: Lower Mouth_end
+    100014: Lower Right Wing
+    100016: Main Body
+    100018: Mesh
+    100020: Right Wing Spine
+    100022: Right Wing Spine_end
+    100024: Upper Left Wing
+    100026: Upper Left Wing_end
+    100028: Upper Mouth
+    100030: Upper Mouth_end
+    100032: Upper Right Wing
+    100034: Upper Right Wing_end
+    100036: Left Back Leg
+    100038: Left Back Leg_end
+    100040: Left Front Leg
+    100042: Left Front Leg_end
+    100044: Right Back Leg
+    100046: Right Back Leg_end
+    100048: Right Front Leg
+    100050: Right Front Leg_end
+    400000: Batling
+    400002: //RootNode
+    400004: Left Wing Spine
+    400006: Left Wing Spine_end
+    400008: Lower Left Wing
+    400010: Lower Mouth
+    400012: Lower Mouth_end
+    400014: Lower Right Wing
+    400016: Main Body
+    400018: Mesh
+    400020: Right Wing Spine
+    400022: Right Wing Spine_end
+    400024: Upper Left Wing
+    400026: Upper Left Wing_end
+    400028: Upper Mouth
+    400030: Upper Mouth_end
+    400032: Upper Right Wing
+    400034: Upper Right Wing_end
+    400036: Left Back Leg
+    400038: Left Back Leg_end
+    400040: Left Front Leg
+    400042: Left Front Leg_end
+    400044: Right Back Leg
+    400046: Right Back Leg_end
+    400048: Right Front Leg
+    400050: Right Front Leg_end
+    4300000: Mesh
+    7400000: Atk_Anim
+    7400002: Fly_Anim
+    9500000: //RootNode
+    13700000: Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Atk_Anim
+      takeName: Batling|Atk_Anim
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Batling
+        weight: 1
+      - path: Batling/Main Body
+        weight: 1
+      - path: Batling/Main Body/Left Wing Spine
+        weight: 1
+      - path: Batling/Main Body/Left Wing Spine/Left Wing Spine_end
+        weight: 1
+      - path: Batling/Main Body/Lower Left Wing
+        weight: 1
+      - path: Batling/Main Body/Lower Left Wing/Upper Left Wing
+        weight: 1
+      - path: Batling/Main Body/Lower Left Wing/Upper Left Wing/Upper Left Wing_end
+        weight: 1
+      - path: Batling/Main Body/Lower Mouth
+        weight: 1
+      - path: Batling/Main Body/Lower Mouth/Lower Mouth_end
+        weight: 1
+      - path: Batling/Main Body/Lower Right Wing
+        weight: 1
+      - path: Batling/Main Body/Lower Right Wing/Upper Right Wing
+        weight: 1
+      - path: Batling/Main Body/Lower Right Wing/Upper Right Wing/Upper Right Wing_end
+        weight: 1
+      - path: Batling/Main Body/Right Wing Spine
+        weight: 1
+      - path: Batling/Main Body/Right Wing Spine/Right Wing Spine_end
+        weight: 1
+      - path: Batling/Main Body/Upper Mouth
+        weight: 1
+      - path: Batling/Main Body/Upper Mouth/Upper Mouth_end
+        weight: 1
+      - path: Mesh
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fly_Anim
+      takeName: Batling|Fly_Anim
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Batling
+        weight: 1
+      - path: Batling/Main Body
+        weight: 1
+      - path: Batling/Main Body/Left Wing Spine
+        weight: 1
+      - path: Batling/Main Body/Left Wing Spine/Left Wing Spine_end
+        weight: 1
+      - path: Batling/Main Body/Lower Left Wing
+        weight: 1
+      - path: Batling/Main Body/Lower Left Wing/Upper Left Wing
+        weight: 1
+      - path: Batling/Main Body/Lower Left Wing/Upper Left Wing/Upper Left Wing_end
+        weight: 1
+      - path: Batling/Main Body/Lower Mouth
+        weight: 1
+      - path: Batling/Main Body/Lower Mouth/Lower Mouth_end
+        weight: 1
+      - path: Batling/Main Body/Lower Right Wing
+        weight: 1
+      - path: Batling/Main Body/Lower Right Wing/Upper Right Wing
+        weight: 1
+      - path: Batling/Main Body/Lower Right Wing/Upper Right Wing/Upper Right Wing_end
+        weight: 1
+      - path: Batling/Main Body/Right Wing Spine
+        weight: 1
+      - path: Batling/Main Body/Right Wing Spine/Right Wing Spine_end
+        weight: 1
+      - path: Batling/Main Body/Upper Mouth
+        weight: 1
+      - path: Batling/Main Body/Upper Mouth/Upper Mouth_end
+        weight: 1
+      - path: Mesh
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Main Body
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
