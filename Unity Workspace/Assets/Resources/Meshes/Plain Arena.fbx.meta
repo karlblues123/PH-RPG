@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 2cdb84237fdda124c911368c7b304c12
+timeCreated: 1509367710
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Plain
+    100002: //RootNode
+    100004: Stone
+    100006: Stone.001
+    100008: Stone.002
+    100010: Stone.003
+    100012: Stone.004
+    100014: Stone.005
+    100016: Stone.006
+    100018: Stone.007
+    100020: Stone.008
+    100022: Stone.009
+    100024: Tree
+    100026: Tree.001
+    100028: Tree.002
+    100030: Tree.003
+    100032: Tree.004
+    100034: Tree.005
+    100036: Tree.006
+    100038: Tree.007
+    100040: Tree.008
+    100042: Tree.009
+    100044: Tree.010
+    100046: Tree.011
+    100048: Tree.012
+    100050: Tree.013
+    100052: Tree.014
+    100054: Tree.015
+    100056: Tree.016
+    100058: Tree.017
+    400000: Plain
+    400002: //RootNode
+    400004: Stone
+    400006: Stone.001
+    400008: Stone.002
+    400010: Stone.003
+    400012: Stone.004
+    400014: Stone.005
+    400016: Stone.006
+    400018: Stone.007
+    400020: Stone.008
+    400022: Stone.009
+    400024: Tree
+    400026: Tree.001
+    400028: Tree.002
+    400030: Tree.003
+    400032: Tree.004
+    400034: Tree.005
+    400036: Tree.006
+    400038: Tree.007
+    400040: Tree.008
+    400042: Tree.009
+    400044: Tree.010
+    400046: Tree.011
+    400048: Tree.012
+    400050: Tree.013
+    400052: Tree.014
+    400054: Tree.015
+    400056: Tree.016
+    400058: Tree.017
+    2300000: Plain
+    2300002: Stone
+    2300004: Stone.001
+    2300006: Stone.002
+    2300008: Stone.003
+    2300010: Stone.004
+    2300012: Stone.005
+    2300014: Stone.006
+    2300016: Stone.007
+    2300018: Stone.008
+    2300020: Stone.009
+    2300022: Tree
+    2300024: Tree.001
+    2300026: Tree.002
+    2300028: Tree.003
+    2300030: Tree.004
+    2300032: Tree.005
+    2300034: Tree.006
+    2300036: Tree.007
+    2300038: Tree.008
+    2300040: Tree.009
+    2300042: Tree.010
+    2300044: Tree.011
+    2300046: Tree.012
+    2300048: Tree.013
+    2300050: Tree.014
+    2300052: Tree.015
+    2300054: Tree.016
+    2300056: Tree.017
+    3300000: Plain
+    3300002: Stone
+    3300004: Stone.001
+    3300006: Stone.002
+    3300008: Stone.003
+    3300010: Stone.004
+    3300012: Stone.005
+    3300014: Stone.006
+    3300016: Stone.007
+    3300018: Stone.008
+    3300020: Stone.009
+    3300022: Tree
+    3300024: Tree.001
+    3300026: Tree.002
+    3300028: Tree.003
+    3300030: Tree.004
+    3300032: Tree.005
+    3300034: Tree.006
+    3300036: Tree.007
+    3300038: Tree.008
+    3300040: Tree.009
+    3300042: Tree.010
+    3300044: Tree.011
+    3300046: Tree.012
+    3300048: Tree.013
+    3300050: Tree.014
+    3300052: Tree.015
+    3300054: Tree.016
+    3300056: Tree.017
+    4300000: Stone
+    4300002: Plain
+    4300004: Tree
+    4300006: Tree.001
+    4300008: Tree.002
+    4300010: Tree.003
+    4300012: Tree.004
+    4300014: Tree.005
+    4300016: Tree.006
+    4300018: Tree.007
+    4300020: Tree.008
+    4300022: Tree.009
+    4300024: Tree.010
+    4300026: Tree.011
+    4300028: Tree.012
+    4300030: Tree.013
+    4300032: Tree.014
+    4300034: Tree.015
+    4300036: Tree.016
+    4300038: Tree.017
+    4300040: Stone.001
+    4300042: Stone.002
+    4300044: Stone.003
+    4300046: Stone.004
+    4300048: Stone.005
+    4300050: Stone.006
+    4300052: Stone.007
+    4300054: Stone.008
+    4300056: Stone.009
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leaves
+    second: {fileID: 2100000, guid: 97a64d4dbeff22645aacca3b7c390970, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone
+    second: {fileID: 2100000, guid: 4989e574f57b01f4c9087a4829484160, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trunk
+    second: {fileID: 2100000, guid: ad601ea96c28a484aa8c25688d191def, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

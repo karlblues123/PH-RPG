@@ -71,10 +71,13 @@
      <Compile Include="Assets\Scripts\Model\Malcolm\Malcolm.cs" />
      <Compile Include="Assets\Scripts\Model\Move.cs" />
      <Compile Include="Assets\Scripts\Model\ObjectPooler.cs" />
+     <Compile Include="Assets\Scripts\Model\OverworldControls.cs" />
      <Compile Include="Assets\Scripts\Model\Stage.cs" />
      <Compile Include="Assets\Scripts\Model\Unit.cs" />
      <Compile Include="Assets\Scripts\View\DamagePopup.cs" />
      <Compile Include="Assets\Scripts\View\GameProperUI.cs" />
+     <Compile Include="Assets\Scripts\View\TitleMenu.cs" />
+     <Compile Include="Assets\Scripts\View\ToggleActive.cs" />
      <None Include="Assets\Resources\Shaders\Glow.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
